@@ -9,7 +9,11 @@
     "nav": "Press 1 to go to the garage. Press 2 to go to the front porch. Press 3 to go to the patio.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 2,
@@ -21,7 +25,11 @@
     "nav": "Press 1 to go to the driveway. Press 2 to go to the front porch. Press 3 to go to the mudroom.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 3,
@@ -33,7 +41,11 @@
     "nav": "Press 1 to go to the driveway. Press 2 to go to the garage. Press 3 to go to the front entrance.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 4,
@@ -45,7 +57,11 @@
     "nav": "Press 1 to go to the garage. Press 2 to go to the kitchen. Press 3 to go to the patio.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 1,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 5,
@@ -57,7 +73,11 @@
     "nav": "Press 1 to go to the front porch. Press 2 to go to the living room. Press 3 to go to the attic.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 6,
@@ -69,7 +89,11 @@
     "nav": "Press 1 to go to the front entrance. Press 2 to go to the office. Press 3 to go to the kitchen.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 1
+    "housekeeper": 1,
+    "kid": 0,
+    "sleep": 1,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 7,
@@ -81,7 +105,11 @@
     "nav": "Press 1 to go to the living room. Press 2 to go to the dining room. Press 3 to go to the attic",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 8,
@@ -93,7 +121,11 @@
     "nav": "Press 1 to go to the office. Press 2 to go to the pantry. Press 3 to go to the downstairs hallway.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 9,
@@ -105,7 +137,11 @@
     "nav": "Press 1 to go to the mudroom. Press 2 to go to the living room. Press 3 to go to the pantry.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 10,
@@ -117,7 +153,11 @@
     "nav": "Press 1 to go to the dining room. Press 2 to go to the kitchen. Press 3 to go to the downstairs hallway.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 11,
@@ -129,7 +169,11 @@
     "nav": "Press 1 to go to the dining room. Press 2 to go to the pantry. Press 3 to go upstairs.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 1,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 12,
@@ -141,7 +185,11 @@
     "nav": "Press 1 to go downstairs. Press 2 to go to the west hallway. Press 3 to go to the patio.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 13,
@@ -153,7 +201,11 @@
     "nav": "Press 1 to go to the east hallway. Press 2 to go to the master bedroom. Press 3 to go to the nursery.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 14,
@@ -165,7 +217,11 @@
     "nav": "Press 1 to go to the west hallway. Press 2 to go to the master bath. Press 3 to go to the walk-in closet.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 1
+    "housekeeper": 1,
+    "kid": 0,
+    "sleep": 1,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 15,
@@ -177,7 +233,11 @@
     "nav": "",
     "win": 1,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 16,
@@ -189,7 +249,11 @@
     "nav": "Press 1 to go to the east hallway. Press 2 to go to the guest bathroom. Press 3 to go to the attic.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 1,
+    "sleep": 1,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 17,
@@ -201,7 +265,11 @@
     "nav": "Press 1 to go to the master bedroom. Press 2 to go to the walk-in closet.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 1
+    "housekeeper": 1,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 18,
@@ -213,7 +281,11 @@
     "nav": "Press 1 to go to the nursery. Press 2 to go to the guest bedroom.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 19,
@@ -225,7 +297,11 @@
     "nav": "Press 1 to go to the master bedroom. Press 2 to go to the master bathroom.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 20,
@@ -237,7 +313,11 @@
     "nav": "",
     "win": 0,
     "lose": 1,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 21,
@@ -249,7 +329,11 @@
     "nav": "Press 1 to go to the driveway. Press 2 to go to the mudroom. Press 3 to go to the garden shed.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 22,
@@ -261,7 +345,11 @@
     "nav": "Press 1 to go to the garden shed. Press 2 to go to the pool house. Press 3 to go to the pool.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 1,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 23,
@@ -273,7 +361,11 @@
     "nav": "Press 1 to go to the patio. Press 2 to go to the back yard.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 24,
@@ -285,7 +377,11 @@
     "nav": "Press 1 to go to the backyard. Press 2 to go to the pool.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 1,
+    "abc": 0,
+    "def": 0
   },
   {
     "id": 25,
@@ -297,6 +393,10 @@
     "nav": "Press 1 to go to the backyard. Press 2 to go to the pool house.",
     "win": 0,
     "lose": 0,
-    "housekeeper": 0
+    "housekeeper": 0,
+    "kid": 0,
+    "sleep": 0,
+    "abc": 0,
+    "def": 0
   }
 ]
