@@ -5,7 +5,7 @@
     "c1": 2,
     "c2": 3,
     "c3": 21,
-    "story": "You are standing on the driveway.",
+    "story": "You are standing on the driveway to your house. You think the siding looks like it could use a coat of paint, just not today.",
     "nav": "Go to Garage [1], Front Porch [2], Patio [3].",
     "win": 0,
     "lose": 0,
