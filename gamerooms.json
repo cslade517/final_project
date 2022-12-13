@@ -182,7 +182,7 @@
     "c2": 13,
     "c3": 16,
     "story": "You are in the upstairs east hallway. Why are there 23 hockey sticks in the corner?",
-    "nav": "Where do you want to go: Downstairs [1}, West Hallway [2], Guest Bedroom [3]",
+    "nav": "Where do you want to go: Downstairs [1], West Hallway [2], Guest Bedroom [3]",
     "win": 0,
     "lose": 0,
     "housekeeper": 0,
