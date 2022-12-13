@@ -165,7 +165,7 @@
     "c1": 8,
     "c2": 10,
     "c3": 12,
-    "story": "You are in the downstairs hall. You hear growling from a dog crate. The tiniest, most pathetic dog you've ever seen emerges. She proceeds to follow you everywhere.",
+    "story": "You are in the downstairs hall. The tiniest, most pathetic dog you've ever seen emerges from a dog crate and begins to follow you everywhere.",
     "nav": "Where do you want to go: Dining Room [1], Pantry [2], Upstairs [3]",
     "win": 0,
     "lose": 0,
