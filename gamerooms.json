@@ -341,7 +341,7 @@
     "c1": 23,
     "c2": 24,
     "c3": 25,
-    "story": "You are in the backyard. You wonder why the grass is so long. The tiny dog runs off into the grass...she might be lost forever.",
+    "story": "You are in the backyard. The grass is so long. The tiny dog runs off into the grass…you think she might be lost forever.",
     "nav": "Where do you want to go: Garden Shed [1], Pool House [2], Pool [3]",
     "win": 0,
     "lose": 0,
