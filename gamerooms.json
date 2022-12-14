@@ -197,7 +197,7 @@
     "c1": 12,
     "c2": 14,
     "c3": 15,
-    "story": "You are in the upstairs west hallway. Wait, why are there two hallways?",
+    "story": "You are in the upstairs west hallway. There's a laundry basket full of clothes in the corner?",
     "nav": "Where do you want to go: East Hallway, Master Bedroom [2], Second Bedroom [3]",
     "win": 0,
     "lose": 0,
