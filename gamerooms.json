@@ -28,7 +28,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -58,9 +58,9 @@
     "win": 0,
     "lose": 0,
     "housekeeper": 0,
-    "kid": 0,
+    "kid": 1,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -92,7 +92,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 1,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -106,7 +106,7 @@
     "win": 0,
     "lose": 0,
     "housekeeper": 0,
-    "kid": 1,
+    "kid": 0,
     "sleep": 0,
     "abc": 0,
     "def": 0
@@ -124,7 +124,7 @@
     "housekeeper": 0,
     "kid": 1,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -156,7 +156,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -188,7 +188,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -197,7 +197,7 @@
     "c1": 12,
     "c2": 14,
     "c3": 15,
-    "story": "You are in the upstairs west hallway. There's a laundry basket full of clothes in the corner?",
+    "story": "You are in the upstairs west hallway. Wait, why are there two hallways?",
     "nav": "Where do you want to go: East Hallway, Master Bedroom [2], Second Bedroom [3]",
     "win": 0,
     "lose": 0,
@@ -220,7 +220,7 @@
     "housekeeper": 1,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -277,14 +277,14 @@
     "c1": 15,
     "c2": 16,
     "c3": "",
-    "story": "You are in the second bathroom. OMG!! How could such a small space be so dirty? You close the door behind you.",
+    "story": "You are in the second bathroom. OMG!! How could such a small space be so dirty?",
     "nav": "Where do you want to go: Second Bedroom [1], Third Bedroom [2]",
     "win": 0,
     "lose": 0,
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -293,7 +293,7 @@
     "c1": 14,
     "c2": 17,
     "c3": "",
-    "story": "You enter the walk-in closet. You see a chair with candy wrappers strewn about...weird. There is another pile of laundry.",
+    "story": "You enter the walk-in closet. You see a chair with candy wrappers strewn about...weird.",
     "nav": "Where do you want to go: Master Bedroom [1], Master Bath [2]",
     "win": 0,
     "lose": 0,
@@ -332,7 +332,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
@@ -380,7 +380,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "abc": 1,
     "def": 0
   },
   {
