@@ -12,7 +12,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -28,7 +28,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 1,
+    "items": 1,
     "def": 0
   },
   {
@@ -44,7 +44,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -60,7 +60,7 @@
     "housekeeper": 0,
     "kid": 1,
     "sleep": 0,
-    "abc": 1,
+    "items": 0,
     "def": 0
   },
   {
@@ -76,7 +76,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 1,
     "def": 0
   },
   {
@@ -92,7 +92,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 1,
-    "abc": 1,
+    "items": 0,
     "def": 0
   },
   {
@@ -108,7 +108,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 1,
     "def": 0
   },
   {
@@ -124,7 +124,7 @@
     "housekeeper": 0,
     "kid": 1,
     "sleep": 0,
-    "abc": 1,
+    "items": 0,
     "def": 0
   },
   {
@@ -140,7 +140,7 @@
     "housekeeper": 1,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -156,7 +156,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 1,
+    "items": 1,
     "def": 0
   },
   {
@@ -172,7 +172,7 @@
     "housekeeper": 0,
     "kid": 1,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -188,7 +188,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 1,
+    "items": 1,
     "def": 0
   },
   {
@@ -204,7 +204,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -220,7 +220,7 @@
     "housekeeper": 1,
     "kid": 0,
     "sleep": 0,
-    "abc": 1,
+    "items": 0,
     "def": 0
   },
   {
@@ -236,7 +236,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 1,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -252,7 +252,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -268,7 +268,7 @@
     "housekeeper": 1,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -284,7 +284,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 1,
+    "items": 1,
     "def": 0
   },
   {
@@ -300,7 +300,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 1,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -316,7 +316,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 1,
     "def": 0
   },
   {
@@ -332,7 +332,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 1,
+    "items": 1,
     "def": 0
   },
   {
@@ -348,7 +348,7 @@
     "housekeeper": 0,
     "kid": 1,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   },
   {
@@ -364,7 +364,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 1,
     "def": 0
   },
   {
@@ -380,7 +380,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 1,
+    "items": 0,
     "def": 0
   },
   {
@@ -396,7 +396,7 @@
     "housekeeper": 0,
     "kid": 0,
     "sleep": 0,
-    "abc": 0,
+    "items": 0,
     "def": 0
   }
 ]
