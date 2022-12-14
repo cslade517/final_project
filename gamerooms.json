@@ -357,7 +357,7 @@
     "c1": 21,
     "c2": 22,
     "c3": "",
-    "story": "You enter the garden shed. The lawn mower is in pieces...that explains the grass.",
+    "story": "You enter the garden shed. The lawn mower is in pieces. You're thankful because you know Christine can't ask you to mow the grass.",
     "nav": "Where do you want to go: Patio [1], Backyard [2]",
     "win": 0,
     "lose": 0,
