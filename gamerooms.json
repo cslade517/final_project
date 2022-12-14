@@ -58,7 +58,7 @@
     "win": 0,
     "lose": 0,
     "housekeeper": 0,
-    "kid": 1,
+    "kid": 0,
     "sleep": 0,
     "abc": 0,
     "def": 0
@@ -106,7 +106,7 @@
     "win": 0,
     "lose": 0,
     "housekeeper": 0,
-    "kid": 0,
+    "kid": 1,
     "sleep": 0,
     "abc": 0,
     "def": 0
