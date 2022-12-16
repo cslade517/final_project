@@ -13,7 +13,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 1
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
     "kid": 1,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 6,
@@ -85,7 +85,7 @@
     "c1": 5,
     "c2": 7,
     "c3": 9,
-    "story": "You enter the living room. The TV is blaring a kids cartoon from Treehous. Funny, there is no one in the living room watching the TV.",
+    "story": "You enter the living room. The TV is blaring a kids cartoon from Treehouse. Funny, there is no one in the living room watching the TV.",
     "nav": "Where do you want to go: Front Entrance [1], Office [2], Kitchen [3]",
     "win": 0,
     "lose": 0,
@@ -93,7 +93,7 @@
     "kid": 0,
     "sleep": 1,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 8,
@@ -125,7 +125,7 @@
     "kid": 1,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 1
   },
   {
     "id": 9,
@@ -141,7 +141,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 10,
@@ -157,7 +157,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 11,
@@ -173,7 +173,7 @@
     "kid": 1,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 12,
@@ -189,7 +189,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 13,
@@ -202,10 +202,10 @@
     "win": 0,
     "lose": 0,
     "housekeeper": 0,
-    "kid": 0,
+    "kid": 1,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 1
   },
   {
     "id": 14,
@@ -221,7 +221,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "kid": 0,
     "sleep": 1,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 16,
@@ -253,7 +253,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 17,
@@ -269,7 +269,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 1
   },
   {
     "id": 18,
@@ -285,7 +285,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 19,
@@ -301,7 +301,7 @@
     "kid": 0,
     "sleep": 1,
     "items": 0,
-    "def": 0
+    "dog": 1
   },
   {
     "id": 20,
@@ -317,7 +317,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 21,
@@ -333,7 +333,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 22,
@@ -349,7 +349,7 @@
     "kid": 1,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 23,
@@ -365,7 +365,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 1,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 24,
@@ -381,7 +381,7 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   },
   {
     "id": 25,
@@ -397,6 +397,6 @@
     "kid": 0,
     "sleep": 0,
     "items": 0,
-    "def": 0
+    "dog": 0
   }
 ]
